@@ -15,6 +15,7 @@ author: "Rubaiyat-E-Zaman"
 
 navbar-links:
   About Me: "aboutme"
+  Test: "tst"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
