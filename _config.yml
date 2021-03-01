@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: "Zaman's thoughts"
+title: Zaman's thoughts
 
 # Your name to show in the footer
 author: Rubaiyat-E-Zaman
@@ -39,7 +39,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ezamanr@gmial.com"
+  email: ezamanr@gmail.com
   facebook: https://web.facebook.com/profile.php?id=100048950297884
   #github: daattali
   #twitter: daattali
