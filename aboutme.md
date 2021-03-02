@@ -16,7 +16,7 @@ Following are a couple of things which I find interesting:
 
 - Competitive programming
 - Maths
-- Physic
+- Physics
 - Puzzles
 - Strategies
 
