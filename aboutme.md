@@ -8,7 +8,7 @@ Whenever I meet new people I feel the need for some common factors to exist whic
 
 If you are already here at this blog, chances are you and I have some things in common. 
 
-###*Finally some things about me*
+### *Finally some things about me*
 
 I am Rubaiyat-E- Zaman, cuurently studying at Chittagong College in class 12.
 
