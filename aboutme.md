@@ -10,7 +10,7 @@ If you are already here at this blog, chances are you and I have some things in 
 
 ### *Finally some things about me*
 
-I am Rubaiyat-E- Zaman, cuurently studying at Chittagong College in class 12.
+I am Rubaiyat-E- Zaman, curently studying at Chittagong College in class 12.
 
 Following are a couple of things which I find interesting: 
 
