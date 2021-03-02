@@ -14,8 +14,8 @@ author: "Rubaiyat-E-Zaman"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Contents: "contents"
+  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
